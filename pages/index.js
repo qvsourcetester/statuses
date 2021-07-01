@@ -44,6 +44,9 @@ export default function Home() {
             <p>
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
+            <p>
+              Update
+            </p>
           </a>
         </div>
       </main>
